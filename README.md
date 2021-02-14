@@ -1,8 +1,8 @@
 # ufo-sightings
-using Javascript and HTML
+Tools: Javascript, HTML, abd Bootstrap
 
 ## Overview
-In this project we built an interactive webpage, which allowed the user to filter UFO sightings data based on a number of inputs like data, city, state, country, and shape of UFO. The tools used included HTML, Bootstrap, and Javascript.
+In this project we built an interactive webpage, which allowed the user to filter UFO sightings data based on a number of inputs like data, city, state, country, and shape of UFO. 
 
 ## Results
 The result is an easy to navigate website where the user can quickly learn more about UFO sightings. It is desgined such that you do not have to refresh the page or click a button to filter the data. By simply entering the criteria in the field and pressing enter, the filtered data table is returned. 
